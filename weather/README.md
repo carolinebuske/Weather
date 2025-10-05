@@ -30,7 +30,7 @@ The analysis included:
 
 ---
 ## Authors
--Caroline Buske
+Caroline Buske
 
 ---
 
