@@ -1,1 +1,8 @@
+This project was created in Visual Studio Code using Python.
+To run it successfully, you will need the following libraries installed:
+-matplotlib
+-numpy
+-pandas
+-seaborn
+-calendar
 
