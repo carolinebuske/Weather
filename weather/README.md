@@ -29,6 +29,10 @@ The analysis included:
 - Bar graph of the proportion of days that received precipitation by month  
 
 ---
+## Authors
+-Caroline Buske
+
+---
 
 ## Results
 - **Portland, ME** experiences more total rainfall than **Seattle, WA**  
