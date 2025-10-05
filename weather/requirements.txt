@@ -1,8 +1,15 @@
-This project was created in Visual Studio Code using Python.
-To run it successfully, you will need the following libraries installed:
--matplotlib
--numpy
--pandas
--seaborn
--calendar
+## Requirements
 
+This project was created in **Visual Studio Code** using **Python**.  
+To run it successfully, you will need the following libraries installed:
+
+- matplotlib  
+- numpy  
+- pandas  
+- seaborn  
+- calendar  
+
+You can install all dependencies by running:
+
+```bash
+pip install matplotlib numpy pandas seaborn
