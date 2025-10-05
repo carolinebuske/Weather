@@ -27,8 +27,10 @@ The analysis included:
 - Box plot of average rainfall by month  
 - Bar graph of average rainfall by month  
 - Bar graph of the proportion of days that received precipitation by month  
-
+- Analysis can be found in Weather_Data.ipynb in the code folder
+- The clean data files are portland_rain.csv and seattle_rain.csv in the data folder
 ---
+
 ## Authors
 Caroline Buske
 
